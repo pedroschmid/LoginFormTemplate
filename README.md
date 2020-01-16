@@ -1,5 +1,5 @@
 # LoginV1
- Pagina web de login e registro
+ Template para signin e signup.
  
  # Index
  ![image](https://github.com/pedroschmid/LoginPage/blob/master/images/indexIMG.png)
