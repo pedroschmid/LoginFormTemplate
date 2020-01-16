@@ -2,10 +2,10 @@
  Pagina web de login e registro
  
  # Index
- ![image](/images/indexIMG)
+ ![image](https://github.com/pedroschmid/LoginPage/blob/master/images/indexIMG.png)
  
  # Sign-In
- ![image](https://github.com/pedroschmid/LoginPage/blob/master/images/stretched-1920-1080-581898.jpg)
+ ![image](https://github.com/pedroschmid/LoginPage/blob/master/images/loginIMG.png)
  
 # Sign-up
-![image](https://github.com/pedroschmid/LoginPage/blob/master/images/stretched-1920-1080-961397.jpg)
+![image](https://github.com/pedroschmid/LoginPage/blob/master/images/signupIMG.png)
