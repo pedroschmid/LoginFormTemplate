@@ -1,4 +1,4 @@
-# LoginV1
+# Login Template
  Template para signin e signup.
  
  # Index
